@@ -1,0 +1,2 @@
+3 new-file0.txt
+4 test_purpose_newFile.txt
